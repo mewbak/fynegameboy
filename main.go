@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/andydotxyz/gameboy.live/gb"
-	"github.com/andydotxyz/gameboy/driver"
+	"github.com/andydotxyz/fynegameboy/driver"
 )
 
 func romPath() string {

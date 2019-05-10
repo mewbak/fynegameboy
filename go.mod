@@ -1,4 +1,4 @@
-module github.com/andydotxyz/gameboy
+module github.com/andydotxyz/fynegameboy
 
 go 1.12
 
